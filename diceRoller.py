@@ -1,5 +1,5 @@
 # Sarah Nicholson
-# roller.py
+# diceRoller.py
 # Graphics program to roll a pair of dice. Uses custom widgets
 # Button and DieView.
 
