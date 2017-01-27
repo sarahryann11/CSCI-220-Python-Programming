@@ -1,33 +1,8 @@
 '''
-Name: Sarah Nicholson
-
-Ch 4. True/False
-1. False
-2. True
-3. True
-4. False
-5. True
-6. False
-7. True
-8. False
-9. False
-10. False
-
-Ch. 4 Multiple Choice
-1. D
-2. B
-3. D
-4. C
-5. D
-6. D
-7. D
-8. B
-9. A
+Sarah Nicholson
 
 Purpose: It is to create a game of tic-tac-toe and when the two players are done
 playing, the screen will close.
-
-Authenticity: It is my own work, and I also discussed it with Jason Hughes.
 '''
 
 from graphics import *
