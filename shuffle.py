@@ -1,4 +1,5 @@
 #Sarah Nicholson
+#Outputs a random shuffle of cards
 
 from random import *
 
